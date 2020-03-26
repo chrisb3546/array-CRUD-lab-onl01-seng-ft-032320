@@ -30,7 +30,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
     myList = ["one", "two", "three", "four"]
-    myList [0]
+    myList[0]
 end
 
 def retrieve_first_element_from_array(array)
